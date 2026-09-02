@@ -1,0 +1,22 @@
+--2026-09-01 17:11:24--  https://packages.playit.gg/keys/playit.rsa.pub
+Resolving packages.playit.gg (packages.playit.gg)... 104.20.22.239, 172.66.168.209, 2606:4700:10::ac42:a8d1, ...
+Connecting to packages.playit.gg (packages.playit.gg)|104.20.22.239|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 800 [text/plain]
+Saving to: '/etc/apk/keys/playit.rsa.pub'
+
+      /etc/a   0%       0  --.-KB/s               /etc/apk/key 100%     800  --.-KB/s    in 0s      
+
+2026-09-01 17:11:24 (401 MB/s) - '/etc/apk/keys/playit.rsa.pub' saved [800/800]
+
+--2026-09-01 17:11:24--  http://echo/
+Resolving echo (echo)... failed: Name does not resolve.
+wget: unable to resolve host address 'echo'
+--2026-09-01 17:11:24--  https://packages.playit.gg/data/alpine/stable/main
+Reusing existing connection to packages.playit.gg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-09-01 17:11:24 ERROR 404: Not Found.
+
+FINISHED --2026-09-01 17:11:24--
+Total wall clock time: 0.5s
+Downloaded: 1 files, 800 in 0s (401 MB/s)
